@@ -1,3 +1,8 @@
+---
+title: "1999"
+date: 2018-10-14T22:22:57Z
+draft: false
+---
 = 1999
 
 Zu Beginn des Jahres 1999 zählten wir bereits 29 aktive Mitglieder.
